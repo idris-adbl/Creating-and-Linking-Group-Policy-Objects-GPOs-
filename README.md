@@ -1,4 +1,4 @@
-# Creating-and-Linking-Group-Policy-Objects-GPOs-
+# Creating-and-Linking-Group-Policy-Objects-(GPO)
 
   **Objective: Create and link policies to OUs**
 
